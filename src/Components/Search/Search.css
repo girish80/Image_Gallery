@@ -1,0 +1,7 @@
+.search-wrapper{
+    justify-content: center;
+    display: flex;
+}
+#input{
+padding: 10px 150px;
+}

@@ -1,0 +1,25 @@
+.photos{
+    background-color: blue;
+    margin: 50px 200px;
+    padding: 40px 0px;
+    padding-left: 40px;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    display: flex;
+    gap: 80px;
+
+}
+h1{
+    letter-spacing: 0px;
+
+}
+p{
+font-size: larger;
+}
+.heading{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-top: 30px;
+}
